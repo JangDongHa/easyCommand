@@ -1,0 +1,2 @@
+mail---/bin/sh----c---mutt -s "인쇄 자료입니다." zz690610@naver.com -a "/Users/dong/documents/hwpDir/Spring 개념 정리.hwp" <<< "인쇄 자료"---###Spring 개념 정리.hwp to zz690610---
+echo---/bin/sh----c---echo "This is test Command(easyCommand ver 0.1 by Dong)"---###test Page---
